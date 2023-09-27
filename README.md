@@ -1,1 +1,1 @@
-# AirTalk
+AirTalk is a messaging app for iOS built to facilitate instant messaging through simple and group conversations. Users can send photos, videos, audio messages, text messages and locations and are allowed to delete any messages sent by them. Within simple conversations, users can play Connect Four, a multiplayer game made to enhance their interaction in other ways then messaging.
